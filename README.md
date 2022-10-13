@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Computer Science and Web Development enthusiast!
+- I am a Computer Science and Web Development enthusiast!
 ---
 Favourite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
