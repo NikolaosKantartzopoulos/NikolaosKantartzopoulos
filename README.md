@@ -20,8 +20,9 @@ Already know:
 - HTML, CSS and JavaScript
 - [Webpack](https://webpack.js.org/)
 - [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
+- Basics of [ReactJS]()
 - Linux/[Ubuntu](https://ubuntu.com/) basic commands
-- - I like to use [TailwindCSS](https://tailwindcss.com/)
+- I like to use [TailwindCSS](https://tailwindcss.com/)
 
 * 🔭 I’m currently following the Odin Project Curriculum
   https://www.theodinproject.com
