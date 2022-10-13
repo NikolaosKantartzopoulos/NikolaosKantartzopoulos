@@ -22,11 +22,11 @@ Already know:
 - [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
 - Basics of [ReactJS]()
 - Linux/[Ubuntu](https://ubuntu.com/) basic commands
-- I like to use [TailwindCSS](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 * 🔭 I’m currently following the Odin Project Curriculum
   https://www.theodinproject.com
-  and have completed several project which you can see live!
+  and have completed several projects which you can see live!
 
   - [Landing Page](https://github.com/NikolaosKantartzopoulos/landingPage)
   - [Rock Paper Scissors](https://github.com/NikolaosKantartzopoulos/rockPapperScissors)
@@ -36,6 +36,7 @@ Already know:
   - [Tic Tac Toe](https://github.com/NikolaosKantartzopoulos/ticTacToe)
   - [Admin Dashboard](https://github.com/NikolaosKantartzopoulos/adminDashboard)
   - [Restaurant Page](https://github.com/NikolaosKantartzopoulos/restaurantPage)
+      [LIVE!](https://nikolaoskantartzopoulos.github.io/restaurantPage)
   - [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents)
   - [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState)
   - [Calculator](https://github.com/NikolaosKantartzopoulos/calculator)
