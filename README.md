@@ -12,6 +12,7 @@ Favourite books:
 Other books read:
 - Computer Networking: A Top-down Approach, by Jim Kurose
 - Eloquent Javascript, by Marijn Haverbeke
+- [You do not know JS yet](https://github.com/getify/You-Dont-Know-JS)
 ---
 Already use:
 - HTML, CSS and JavaScript
