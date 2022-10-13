@@ -15,8 +15,9 @@ Other books read:
 ---
 Already use:
 - HTML, CSS and JavaScript
-- [Webpack](https://webpack.js.org/)
+- Git / Github
 - [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
+- [Webpack](https://webpack.js.org/)
 - Basics of [ReactJS]()
 - Linux/Unix
 - [TailwindCSS](https://tailwindcss.com/)
