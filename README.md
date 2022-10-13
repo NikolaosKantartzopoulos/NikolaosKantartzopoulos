@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Self-studying Computer Science and Web Development enthusiast!
+- Computer Science and Web Development enthusiast!
 ---
 Favourite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
@@ -24,7 +24,10 @@ Already use:
 - Apache Server  <br/><br/>
 
 - Currently learning ReactJS! 
-  - Next steps: NodeJS, Express and MongoDB
+  - Next steps: 
+    - NodeJS 
+    - Express  
+    - MongoDB
 ---
 * Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022
   - have completed several projects which you can see live!
