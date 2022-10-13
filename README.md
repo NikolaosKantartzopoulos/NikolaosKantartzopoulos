@@ -31,7 +31,7 @@
     - MongoDB
 ---
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 
-- I have completed several projects which you can see live!
+I have completed several projects which you can see live!
 ---
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
       - First project using ReactJS
