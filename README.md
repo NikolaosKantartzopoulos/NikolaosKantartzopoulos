@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Have already started self-studying CS
-
-Favorite books read include:
+- Self-studying CS and Web Develpopment enthusiast!
+---
+Favorite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
 - [Structure and Implementation of Computer Programs](https://github.com/NikolaosKantartzopoulos/Structure-and-Interpretation-of-Computer-Programs), by Harold Abelson and Gerald Jay Sussman
 - [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X), by Randal Bryant and David O'Hallaron
@@ -12,9 +12,8 @@ Favorite books read include:
 Other books read:
 - Computer Networking: A Top-down Approach, by Jim Kurose
 - Eloquent Javascript, by Marijn Haverbeke
-
+---
 Already use:
-
 - HTML, CSS and JavaScript
 - [Webpack](https://webpack.js.org/)
 - [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
@@ -23,8 +22,9 @@ Already use:
 - [TailwindCSS](https://tailwindcss.com/)
 
 
-* 🌱 Currently learning ReactJS! Next steps: NodeJS, Express and MongoDB
-
+* 🌱 Currently learning ReactJS! 
+  * Next steps: NodeJS, Express and MongoDB
+---
 * 🔭 Following the Odin Project Curriculum
   https://www.theodinproject.com
   and have completed several projects which you can see live!
@@ -49,7 +49,7 @@ Already use:
       - Change "CV Application with class Components" class Components with Function Componets tthat use Hooks
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator) --- [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) 
 
-
+---
 * 📫 How to reach me:
   - nkantartzopoulos@gmail.com
   - +0030 6988 655 484
