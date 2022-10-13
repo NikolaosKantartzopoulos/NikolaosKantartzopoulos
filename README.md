@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Self-studying CS and Web Development enthusiast!
+- Self-studying Computer Science and Web Development enthusiast!
 ---
-Favorite books:
+Favourite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
 - [Structure and Implementation of Computer Programs](https://github.com/NikolaosKantartzopoulos/Structure-and-Interpretation-of-Computer-Programs), by Harold Abelson and Gerald Jay Sussman
 - [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X), by Randal Bryant and David O'Hallaron
