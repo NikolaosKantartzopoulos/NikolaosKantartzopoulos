@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Self-studying CS and Web Develpopment enthusiast!
+- Self-studying CS and Web Development enthusiast!
 ---
 Favorite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
