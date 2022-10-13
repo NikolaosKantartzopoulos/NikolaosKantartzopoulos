@@ -30,9 +30,8 @@ Already use:
     - Express  
     - MongoDB
 ---
-* Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022
-  - I have completed several projects which you can see live!
-
+* Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 I have completed several projects which you can see live!
+---
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
       - First project using ReactJS
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
@@ -52,9 +51,6 @@ Already use:
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/Etch-A-Sketch) --- [Etch-a-Sketch!](https://github.com/NikolaosKantartzopoulos/Etch-A-Sketch)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/library) --- [Library](https://github.com/NikolaosKantartzopoulos/library) 
     - Create and change JS Objects using event listeners
-
-
-
 
 ---
 - 📫 How to reach me:
