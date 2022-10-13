@@ -28,18 +28,17 @@ Already know:
   https://www.theodinproject.com
   and have completed several projects which you can see live!
 
-  - [Landing Page](https://github.com/NikolaosKantartzopoulos/landingPage)
-  - [Rock Paper Scissors](https://github.com/NikolaosKantartzopoulos/rockPapperScissors)
-  - [Etch-a-Sketch](https://github.com/NikolaosKantartzopoulos/Etch-A-Sketch)
-  - [Library](https://github.com/NikolaosKantartzopoulos/library)
-  - [Sign-up Form](https://github.com/NikolaosKantartzopoulos/signUpForm)
-  - [Tic Tac Toe](https://github.com/NikolaosKantartzopoulos/ticTacToe)
-  - [Admin Dashboard](https://github.com/NikolaosKantartzopoulos/adminDashboard)
-  - [Restaurant Page](https://github.com/NikolaosKantartzopoulos/restaurantPage)
-      [LIVE!](https://nikolaoskantartzopoulos.github.io/restaurantPage)
-  - [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents)
-  - [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState)
-  - [Calculator](https://github.com/NikolaosKantartzopoulos/calculator)
+  - [Landing Page](https://github.com/NikolaosKantartzopoulos/landingPage) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/landingPage)
+  - [Rock Paper Scissors](https://github.com/NikolaosKantartzopoulos/rockPapperScissors) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/rockPapperScissors)
+  - [Etch-a-Sketch](https://github.com/NikolaosKantartzopoulos/Etch-A-Sketch) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/Etch-A-Sketch)
+  - [Library](https://github.com/NikolaosKantartzopoulos/library) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/library)
+  - [Sign-up Form](https://github.com/NikolaosKantartzopoulos/signUpForm) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/signUpForm)
+  - [Tic Tac Toe](https://github.com/NikolaosKantartzopoulos/ticTacToe) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/ticTacToe)
+  - [Admin Dashboard](https://github.com/NikolaosKantartzopoulos/adminDashboard) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/adminDashboard)
+  - [Restaurant Page](https://github.com/NikolaosKantartzopoulos/restaurantPage) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/restaurantPage)
+  - [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents)
+  - [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState)
+  - [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) --- [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator)
 
 * 🌱 I’m currently learning ReactJS and the next step is to learn NodeJS, Express and MongoDB.
 
