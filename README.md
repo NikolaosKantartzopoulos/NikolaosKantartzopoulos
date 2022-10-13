@@ -21,7 +21,7 @@ Already use:
 - Basics of [ReactJS]()
 - Linux/Unix
 - [TailwindCSS](https://tailwindcss.com/)
-- Apache Server  <br/>
+- Apache Server  <br/><br/>
 
 - Currently learning ReactJS! 
   - Next steps: NodeJS, Express and MongoDB
