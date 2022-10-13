@@ -20,10 +20,10 @@ Already use:
 - Basics of [ReactJS]()
 - Linux/Unix
 - [TailwindCSS](https://tailwindcss.com/)
+- Apache Server
 
-
-* 🌱 Currently learning ReactJS! 
-  * Next steps: NodeJS, Express and MongoDB
+- Currently learning ReactJS! 
+  - Next steps: NodeJS, Express and MongoDB
 ---
 * 🔭 Following the Odin Project Curriculum
   https://www.theodinproject.com
@@ -50,6 +50,6 @@ Already use:
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator) --- [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) 
 
 ---
-* 📫 How to reach me:
+- 📫 How to reach me:
   - nkantartzopoulos@gmail.com
   - +0030 6988 655 484
