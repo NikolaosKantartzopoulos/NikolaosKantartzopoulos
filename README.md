@@ -30,7 +30,7 @@ Already use:
     - MongoDB
 ---
 * Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022
-  - have completed several projects which you can see live!
+  - I have completed several projects which you can see live!
 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/landingPage) --- [Landing Page](https://github.com/NikolaosKantartzopoulos/landingPage) 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/rockPapperScissors) --- [Rock Paper Scissors Game](https://github.com/NikolaosKantartzopoulos/rockPapperScissors) 
