@@ -35,9 +35,10 @@ I have completed several projects which you can see live!
 ---
 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
+      - Change "CV Application with class Components" class Components with Function Componets that use Hooks
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
     - First project using ReactJS
-    - Change "CV Application with class Components" class Components with Function Componets that use Hooks
+
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/rockPapperScissors) --- [Rock Paper Scissors Game](https://github.com/NikolaosKantartzopoulos/rockPapperScissors) 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/ticTacToe) --- [Tic Tac Toe Game](https://github.com/NikolaosKantartzopoulos/ticTacToe)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator) --- [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) 
