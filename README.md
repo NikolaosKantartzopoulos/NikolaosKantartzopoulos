@@ -3,13 +3,13 @@
 I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment for many web technologies.
 
 #### Skills:
-HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX.
+HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, Lisp (Scheme).
 
 
 ---
 
 
-### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 
+### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see live!
 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
