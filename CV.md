@@ -16,7 +16,7 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 #### 2020 -  present | Secretary at Magnitiki Patron Imaging and Diagnostics Medical Center
 
 #### 2016 - 2020 | Owner and Lead Instructor, Tango Farol
-* I started a tango dance school for adults and ran it for 4 years, ensuring it’s a welcoming learning environment for students.
+* Started a tango dance school for adults and ran it for 4 years, ensuring it’s a welcoming learning environment for students.
 * Designed the classes curriculum.
 * Lead instructor for tango.
 * Hired and developed a team of dance instructors.
