@@ -6,7 +6,7 @@ nkantartzopoulos@gmail.com
 Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment for many web technologies.
 
 ### Skills
-HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX.
+HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C++, Lisp (Scheme).
 
 ### Professional Experience
 #### 2021 - present | Self-taught programmer
