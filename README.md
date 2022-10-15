@@ -4,7 +4,7 @@ I am Computer Science and Web Development enthusiast, looking to launch a career
 
 #### Skills:
 HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX.
-
+---
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 
 I have completed several projects which you can see live!
 
