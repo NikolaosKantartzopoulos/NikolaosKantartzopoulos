@@ -4,7 +4,11 @@ I am Computer Science and Web Development enthusiast, looking to launch a career
 
 #### Skills:
 HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX.
+
+
 ---
+
+
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 
 I have completed several projects which you can see live!
 
@@ -29,6 +33,8 @@ I have completed several projects which you can see live!
     - Create and change JS Objects using event listeners
 
 ---
+
+
 #### Favourite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
 - [Structure and Implementation of Computer Programs](https://github.com/NikolaosKantartzopoulos/Structure-and-Interpretation-of-Computer-Programs), by Harold Abelson and Gerald Jay Sussman
