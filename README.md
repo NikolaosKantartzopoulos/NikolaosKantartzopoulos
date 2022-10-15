@@ -1,44 +1,17 @@
 ### Hi there 👋
 
-- I am a Computer Science and Web Development enthusiast!
----
-#### Favourite books:
-- [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
-- [Structure and Implementation of Computer Programs](https://github.com/NikolaosKantartzopoulos/Structure-and-Interpretation-of-Computer-Programs), by Harold Abelson and Gerald Jay Sussman
-- [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X), by Randal Bryant and David O'Hallaron
-- [DOM Enlightement](http://domenlightenment.com/), by Code Lindley
-- next in queue -> [The Algorithm Design Manual](https://www.algorist.com/), by Steven Skiena
+I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment for many web technologies.
 
-#### Other books read:
-- Computer Networking: A Top-down Approach, by Jim Kurose
-- [Eloquent Javascript](https://eloquentjavascript.net/), by Marijn Haverbeke
-- [You do not know JS yet](https://github.com/getify/You-Dont-Know-JS), by Kyle Simpson
----
-#### Already use:
-- HTML, CSS and JavaScript
-- Git / Github
-- [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/)
-- [Webpack](https://webpack.js.org/)
-- Basics of [ReactJS]()
-- Linux/Unix
-- [TailwindCSS](https://tailwindcss.com/)
-- Apache Server  <br/><br/>
+#### Skills:
+HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX.
 
-- Currently learning ReactJS! 
-  - Next steps: 
-    - NodeJS 
-    - Express  
-    - MongoDB
----
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022 
 I have completed several projects which you can see live!
----
 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
       - Change "CV Application with class Components" class Components with Function Componets that use Hooks
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
     - First project using ReactJS
-
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/rockPapperScissors) --- [Rock Paper Scissors Game](https://github.com/NikolaosKantartzopoulos/rockPapperScissors) 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/ticTacToe) --- [Tic Tac Toe Game](https://github.com/NikolaosKantartzopoulos/ticTacToe)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator) --- [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) 
@@ -54,6 +27,19 @@ I have completed several projects which you can see live!
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/Etch-A-Sketch) --- [Etch-a-Sketch!](https://github.com/NikolaosKantartzopoulos/Etch-A-Sketch)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/library) --- [Library](https://github.com/NikolaosKantartzopoulos/library) 
     - Create and change JS Objects using event listeners
+
+---
+#### Favourite books:
+- [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
+- [Structure and Implementation of Computer Programs](https://github.com/NikolaosKantartzopoulos/Structure-and-Interpretation-of-Computer-Programs), by Harold Abelson and Gerald Jay Sussman
+- [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X), by Randal Bryant and David O'Hallaron
+- [DOM Enlightement](http://domenlightenment.com/), by Code Lindley
+- next in queue -> [The Algorithm Design Manual](https://www.algorist.com/), by Steven Skiena
+
+#### Other books read:
+- Computer Networking: A Top-down Approach, by Jim Kurose
+- [Eloquent Javascript](https://eloquentjavascript.net/), by Marijn Haverbeke
+- [You do not know JS yet](https://github.com/getify/You-Dont-Know-JS), by Kyle Simpson
 
 ---
 - 📫 How to reach me:
