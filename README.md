@@ -12,6 +12,7 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see live!
 
+  - [LIVE!](https://nikolaoskantartzopoulos.github.io/memoryCard/) --- [Memory Card Game](https://github.com/NikolaosKantartzopoulos/memoryCard)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
       - Change "CV Application with class Components" class Components with Function Componets that use Hooks
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
