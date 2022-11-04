@@ -11,7 +11,9 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see live!
- 
+
+   - [LIVE!](https://nikolaoskantartzopoulos.github.io/privateLessonsProject/) --- [Small site with online test](https://github.com/NikolaosKantartzopoulos/privateLessonsProject)
+    - Use React with hooks useState and useEffect
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/memoryCard/) --- [Memory Card Game](https://github.com/NikolaosKantartzopoulos/memoryCard)
     - Use React with hooks useState and useEffect
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
@@ -32,7 +34,6 @@ I have completed several projects which you can see live!
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/restaurantPage) --- [Restaurant Page](https://github.com/NikolaosKantartzopoulos/restaurantPage) 
       - Create an one page site, appending nodes using JS on a single existing element in index.html
       - First project created using Webpack
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/Etch-A-Sketch) --- [Etch-a-Sketch!](https://github.com/NikolaosKantartzopoulos/Etch-A-Sketch)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/library) --- [Library](https://github.com/NikolaosKantartzopoulos/library) 
     - Create and change JS Objects using event listeners
 
