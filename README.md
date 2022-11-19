@@ -12,7 +12,7 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see live!
 
-   - [LIVE!](https://nikolaoskantartzopoulos.github.io/privateLessonsProject/) --- [Small site with online test](https://github.com/NikolaosKantartzopoulos/privateLessonsProject)
+   - [LIVE!](https://nikolaoskantartzopoulos.github.io/privateLessonsProject/) --- [Small site with online test](https://privatelessons-3387a.web.app/)
     - Use React with hooks useState and useEffect
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/memoryCard/) --- [Memory Card Game](https://github.com/NikolaosKantartzopoulos/memoryCard)
     - Use React with hooks useState and useEffect
