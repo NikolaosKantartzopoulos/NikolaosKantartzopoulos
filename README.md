@@ -7,7 +7,9 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 
 
 ---
+### My ongoing projects
 
+- [LIVE!](https://med-next.vercel.app/admin/manage-assets) --- [Dynamic content Web Application created with NextJS + MongoDB]([https://privatelessons-3387a.web.app/](https://github.com/NikolaosKantartzopoulos/med-next)
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see live!
