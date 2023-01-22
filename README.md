@@ -18,7 +18,7 @@ Please check my public repositories.
 
 #### Highlights && favorites <3
 
-   - [LIVE!](https://nikolaoskantartzopoulos.github.io/privateLessonsProject/) --- [Small site with online test](https://privatelessons-3387a.web.app/)
+   - [LIVE!](https://privatelessons-3387a.web.app/) --- [Small site with online test](https://github.com/NikolaosKantartzopoulos/privateLessonsProject)
       - Use React with hooks useState and useEffect
       - Use NASA Picture of the Day API
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/memoryCard/) --- [Memory Card Game](https://github.com/NikolaosKantartzopoulos/memoryCard)
