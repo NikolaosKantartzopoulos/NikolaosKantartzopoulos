@@ -13,32 +13,27 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 - [LIVE!](https://bee-shop-azure.vercel.app/shop) --- [E-shop created with NextJS and MongoDB, CSS still not ready](https://github.com/NikolaosKantartzopoulos/bee-shop)
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
-I have completed several projects which you can see live!
+I have completed several projects which you can see!
+Please check my public repositories.
+
+#### Highlights && favorites <3
 
    - [LIVE!](https://nikolaoskantartzopoulos.github.io/privateLessonsProject/) --- [Small site with online test](https://privatelessons-3387a.web.app/)
-    - Use React with hooks useState and useEffect
+      - Use React with hooks useState and useEffect
+      - Use NASA Picture of the Day API
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/memoryCard/) --- [Memory Card Game](https://github.com/NikolaosKantartzopoulos/memoryCard)
     - Use React with hooks useState and useEffect
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/cvWithHooksAndUseState) --- [CV Application with Hooks](https://github.com/NikolaosKantartzopoulos/cvWithHooksAndUseState) 
-      - Change "CV Application with class Components" class Components with Function Componets that use Hooks
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/simpleCVReactClassComponents) --- [CV Application with class Components](https://github.com/NikolaosKantartzopoulos/simpleCVReactClassComponents) 
-    - First project using ReactJS
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/weatherAPI/) --- [Weather API](https://github.com/NikolaosKantartzopoulos/weatherAPI/blob/main/README.md)
     - Use an API to fetch data.
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/rockPapperScissors) --- [Rock Paper Scissors Game](https://github.com/NikolaosKantartzopoulos/rockPapperScissors) 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/ticTacToe) --- [Tic Tac Toe Game](https://github.com/NikolaosKantartzopoulos/ticTacToe)
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/calculator) --- [Calculator](https://github.com/NikolaosKantartzopoulos/calculator) 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/signUpForm) --- [Sign-up Form](https://github.com/NikolaosKantartzopoulos/signUpForm) 
+    - Create a form and add simple user-friendly validation 
   - [LIVE!](https://nikolaoskantartzopoulos.github.io/adminDashboard) --- [Admin Dashboard](https://github.com/NikolaosKantartzopoulos/adminDashboard) 
     - Create a page as close to given sample as possible
     - Grid and Flex CSS
     - TailwindCSS
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/landingPage) --- [Landing Page](https://github.com/NikolaosKantartzopoulos/landingPage) 
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/restaurantPage) --- [Restaurant Page](https://github.com/NikolaosKantartzopoulos/restaurantPage) 
-      - Create an one page site, appending nodes using JS on a single existing element in index.html
-      - First project created using Webpack
-  - [LIVE!](https://nikolaoskantartzopoulos.github.io/library) --- [Library](https://github.com/NikolaosKantartzopoulos/library) 
-    - Create and change JS Objects using event listeners
 
 ---
 
