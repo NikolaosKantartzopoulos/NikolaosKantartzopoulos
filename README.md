@@ -10,7 +10,7 @@ HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C+
 ### My ongoing projects
 
 - [LIVE!](https://med-next.vercel.app/admin/manage-assets) --- [Dynamic content Web Application created with NextJS + MongoDB](https://github.com/NikolaosKantartzopoulos/med-next)
-- [LIVE!](https://bee-shop-azure.vercel.app/shop) --- [E-shop created with NextJS + MongoDB, CSS still not ready](https://github.com/NikolaosKantartzopoulos/bee-shop)
+- [LIVE!](https://bee-shop-azure.vercel.app/shop) --- [Sample E-shop (Rect + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see!
