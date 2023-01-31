@@ -40,6 +40,14 @@ Please check my public repositories.
 
 ---
 
+#### Training grounds
+
+  - [Codewars](https://www.codewars.com/users/NikolaosKantartzopoulos)
+  - [Leetcode](https://leetcode.com/nkantartzopoulos/)
+
+
+---
+
 
 #### Favourite books:
 - [Programming Principles and Practice using C++](https://github.com/NikolaosKantartzopoulos/Programming-Principles-and-Practice-Using-Cpp), by Bjarne Stroustrup
