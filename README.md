@@ -3,21 +3,27 @@
 I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment of many web technologies.
 
 #### Skills:
-HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C++, Lisp (Scheme).
+HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack ), git, Linux/UNIX, C++, Lisp (Scheme).
 
 
 ---
+
+### Showcase
+
+- [LIVE!](https://bee-shop-nk.vercel.app/shop) --- [Sample E-shop (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
+
 ### My ongoing projects
 
 - [LIVE!](https://med-next.vercel.app/admin/manage-assets) --- [Dynamic content Web Application created with NextJS + MongoDB](https://github.com/NikolaosKantartzopoulos/med-next)
-- [LIVE!](https://bee-shop-azure.vercel.app/shop) --- [Sample E-shop (Rect + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
+
+---
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
 I have completed several projects which you can see!
 Please check my public repositories.
 
 #### Highlights && favorites <3
-
+   
    - [LIVE!](https://privatelessons-3387a.web.app/) --- [Small site with online test](https://github.com/NikolaosKantartzopoulos/privateLessonsProject)
       - Use React with hooks useState and useEffect
       - Use NASA Picture of the Day API
