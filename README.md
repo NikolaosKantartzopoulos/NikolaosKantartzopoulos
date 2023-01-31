@@ -11,10 +11,7 @@ HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack ), git, Linux/UNIX, C
 ### Showcase
 
 - [LIVE!](https://bee-shop-nk.vercel.app/shop) --- [Sample E-shop (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
-
-### My ongoing projects
-
-- [LIVE!](https://med-next.vercel.app/admin/manage-assets) --- [Dynamic content Web Application created with NextJS + MongoDB](https://github.com/NikolaosKantartzopoulos/med-next)
+- [LIVE!](https://med-next.vercel.app/) --- [Dynamic content Web Application (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/med-next)
 
 ---
 
