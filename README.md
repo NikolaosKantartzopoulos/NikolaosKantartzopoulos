@@ -12,6 +12,9 @@ HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack ), git, Linux/UNIX, C
 
 - [LIVE!](https://bee-shop-nk.vercel.app/shop) --- [Sample E-shop (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
 - [LIVE!](https://med-next.vercel.app/) --- [Dynamic content Web Application (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/med-next)
+  - Dark theme persisting or refresh using Local Storage
+  - [i18n Internationalization](https://nextjs.org/docs/advanced-features/i18n-routing)
+  - Favicon
 
 ---
 
