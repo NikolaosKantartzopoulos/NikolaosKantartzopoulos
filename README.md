@@ -3,7 +3,7 @@
 I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment of many web technologies.
 
 #### Skills:
-HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack ), git, Linux/UNIX, C++, Lisp (Scheme).
+HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack, JEST ), git, Linux/UNIX, C++, Lisp (Scheme).
 
 
 ---
@@ -16,6 +16,11 @@ HTML, CSS (Tailwind), Javascript (ReactJS, NextJS, Webpack ), git, Linux/UNIX, C
   - [i18n Internationalization](https://nextjs.org/docs/advanced-features/i18n-routing)
   - Favicon
 
+
+---
+### Ongoing project
+
+  - [Data Structures and Algorithms - JavaScript](https://github.com/NikolaosKantartzopoulos/data-structures-and-algorithms-js)
 ---
 
 ### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
