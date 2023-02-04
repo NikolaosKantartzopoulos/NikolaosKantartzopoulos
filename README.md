@@ -23,8 +23,8 @@ HTML, CSS ( [Tailwind](https://tailwindcss.com/) ), Javascript ( [ReactJS](https
   - [Data Structures and Algorithms - JavaScript](https://github.com/NikolaosKantartzopoulos/data-structures-and-algorithms-js)
 ---
 
-### Following the [Odin Project Curriculum](https://www.theodinproject.com) since July 2022.
-I have completed several projects which you can see!
+### Followed the [Odin Project Curriculum](https://www.theodinproject.com) from July 2022 to December 2022.
+I have completed several of the Curriculum's projects which you can see!
 Please check my public repositories.
 
 #### Highlights && favorites <3
@@ -52,7 +52,6 @@ Please check my public repositories.
 
   - [Codewars](https://www.codewars.com/users/NikolaosKantartzopoulos)
   - [Leetcode](https://leetcode.com/nkantartzopoulos/)
-
 
 ---
 
