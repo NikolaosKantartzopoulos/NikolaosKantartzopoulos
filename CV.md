@@ -1,12 +1,13 @@
 ## Entrepreneur and self taught web developer
-github.com/NikolaosKantartzopoulos				           
-nkantartzopoulos@gmail.com
+[GitHub](github.com/NikolaosKantartzopoulos)	<br/>		
+[LinkedIn](https://www.linkedin.com/in/nikolaoskantartzopoulos/) <br/>
+nkantartzopoulos@gmail.com <br/>
 
 ### Summary
 Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment for many web technologies.
 
 ### Skills
-HTML, Javascript (NodeJS, Webpack, ReactJS), CSS (Tailwind), git, Linux/UNIX, C++, Lisp (Scheme).
+HTML, CSS ( Tailwind ), Javascript ( ReactJS, NextJS, Webpack, JEST ), git, Linux/UNIX, C++, Lisp (Scheme).
 
 ### Professional Experience
 #### 2021 - present | Self-taught programmer
