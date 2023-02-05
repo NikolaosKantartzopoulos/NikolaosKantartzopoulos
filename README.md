@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment of many web technologies.
+I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. 
+Familiar with development and deployment of many web technologies.
 
-#### Skills
+### Skills
 HTML, CSS ( [Tailwind](https://tailwindcss.com/) ), Javascript ( [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Webpack](https://webpack.js.org/), [JEST](https://jestjs.io/) ), git, Linux/UNIX, C++, Lisp (Scheme).
 
 
