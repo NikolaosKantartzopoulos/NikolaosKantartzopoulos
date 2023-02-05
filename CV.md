@@ -12,7 +12,8 @@ HTML, CSS ( Tailwind ), Javascript ( ReactJS, NextJS, Webpack, JEST ), git, Linu
 ### Professional Experience
 #### 2021 - present | Self-taught programmer
 * Structured a curriculum that worked through the full stack of web development, algorithms and development tools, following it alongside a full time job.
-* Used React, Tailwind, Webpack to design and implement frontend services as part of the Odin Project Curriculum, including an admin dashboard, a landing page, signup forms and games. See my github for a full list.
+* UUsed React, NextJS, Tailwind, Webpack, JEST to design and implement frontend services. 
+See my github for a full list.
 
 #### 2020 -  present | Secretary at Magnitiki Patron Imaging and Diagnostics Medical Center
 
