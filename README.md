@@ -4,7 +4,7 @@ I am Computer Science and Web Development enthusiast, looking to launch a career
 Familiar with development and deployment of many web technologies.
 
 ### Skills
-HTML, CSS ( [Tailwind](https://tailwindcss.com/) ), Javascript ( [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Webpack](https://webpack.js.org/), [JEST](https://jestjs.io/) ), git, Linux/UNIX, C++, Lisp (Scheme).
+HTML, CSS ( [Tailwind](https://tailwindcss.com/) ), Javascript ( [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [NodeJS](https://nodejs.org/en/), [Webpack](https://webpack.js.org/), [JEST](https://jestjs.io/) ), git, Linux/UNIX, C++, Lisp (Scheme).
 
 
 ---
