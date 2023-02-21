@@ -1,32 +1,52 @@
-## Entrepreneur and self taught web developer
-[GitHub](github.com/NikolaosKantartzopoulos)	<br/>		
-[LinkedIn](https://www.linkedin.com/in/nikolaoskantartzopoulos/) <br/>
-nkantartzopoulos@gmail.com <br/>
+### Experience
+**2021 - present  |  Self-taught programmer**
 
-### Summary
-Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. Familiar with development and deployment for many web technologies.
+Designed and implemented frontend services, attaining a diverse array of skills. Constantly strive to accumulate further knowledge on technologies and best practices, motivated by a never-ending curiosity to comprehend how things work “under the hood”. Structured a curriculum that worked through the full stack of web development, algorithm complexity and development tools, following it alongside a full time job.
 
-### Skills
-HTML, CSS ( Tailwind ), Javascript ( ReactJS, NextJS, Webpack, JEST ), git, Linux/UNIX, C++, Lisp (Scheme).
+**2020 -  present  |  Secretary at Magnitiki Patron Imaging and Diagnostics Medical Center**
 
-### Professional Experience
-#### 2021 - present | Self-taught programmer
-* Structured a curriculum that worked through the full stack of web development, algorithms and development tools, following it alongside a full time job.
-* UUsed React, NextJS, Tailwind, Webpack, JEST to design and implement frontend services. 
-See my github for a full list.
+Built organisational skills and improved the departments workflow by ensuring ease of access to previously undocumented  and erratically changing information.
 
-#### 2020 -  present | Secretary at Magnitiki Patron Imaging and Diagnostics Medical Center
+**2007 - 2020  |  Owner and Lead Instructor, Tango Farol**
 
-#### 2016 - 2020 | Owner and Lead Instructor, Tango Farol
-* Started a tango dance school for adults and ran it for 4 years, ensuring it’s a welcoming learning environment for students.
-* Designed the classes curriculum.
-* Lead instructor for tango.
-* Hired and developed a team of dance instructors.
+Started a tango dance school, ensuring it is a welcoming learning environment for students, developing excellent social and communicating skills. Designed the classes curriculum from A to Z, deconstructing problems and creating clearly defined per lesson targets, used to create a deeper understanding of Tango effortlessly. Travelled in several Tango Events across Europe giving shows and seminars.
 
+---
 
-#### 2007 - 2016 | Tango Dancer and Teacher
-* Travelled in several Tango Events across Europe giving shows and seminars.
-* Teaching and forming a dedicated community of Tango aficionados in Patras, Greece.
+### Education
+**B.Sc. Department of Physics (2006 - 2009) | University of Patras, Patras, Greece**
+  - Structured Programming with Fortran and C++
+  - Object Oriented Programming with C++
 
-#### Education
-* University of Patras, Department of Physics 2006 - 2007
+---
+
+### Skills		
+
+**Intermediate **
+
+HTML, CSS (Tailwind),  JavaScript (ReactJS, NextJS, Webpack, JEST), MongoDB, GitHub
+
+**Basic**
+
+Typescript, Linux/UNIX, C++
+
+---
+
+### Courses / Curriculums
+|Source | Description|
+|---|---|
+| Odin project | A full stack curriculum supported by a passionate open source community |
+| Udemy | React - The Complete Guide (incl Hooks, React Router, Redux) |
+| Udemy | Next.js & React - The Complete Guide (incl. Two Paths!) |
+| Udemy | MongoDB - The Complete Developer's Guide 2023 |
+| Udemy | Understanding TypeScript |
+
+---
+
+### Publications
+
+Various projects on my personal GitHub account
+
+https://bee-shop-nk.vercel.app 	Sample E-shop
+
+https://med-next.vercel.app 		Dynamic content Web Application
