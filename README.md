@@ -16,7 +16,7 @@ HTML, CSS ( [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
   - Dark theme persisting on refresh using Local Storage
   - [i18n Internationalization](https://nextjs.org/docs/advanced-features/i18n-routing)
   - Favicon
-- [LIVE!](https://notebook-nk.vercel.app/) --- [Dynamic content Notebook (React + Typescript + Sass + NextJS + MongoDB)]
+- [LIVE!](https://notebook-nk.vercel.app/) --- [Dynamic content Notebook](React + Typescript + Sass + NextJS + MongoDB)
 
 
 ---
