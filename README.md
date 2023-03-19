@@ -3,6 +3,8 @@
 I am Computer Science and Web Development enthusiast, looking to launch a career on my passion of building web applications and services. 
 Familiar with development and deployment of many web technologies.
 
+### [My porfolio site](https://portfolio-nk.vercel.app/portfolio)
+
 ### Skills
 HTML, CSS ( [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/) ), Javascript ( [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [NodeJS](https://nodejs.org/en/), [Webpack](https://webpack.js.org/), [JEST](https://jestjs.io/) ), git, Linux/UNIX, C++.
 
@@ -11,6 +13,7 @@ HTML, CSS ( [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
 
 ### Showcase
 
+- [LIVE!](https://notebook-nk.vercel.app/) --- [Note Application (React + Typescript + NextJS + MongoDB + Sass)](https://github.com/NikolaosKantartzopoulos/notebook)
 - [LIVE!](https://bee-shop-nk.vercel.app/shop) --- [Sample E-shop (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/bee-shop)
 - [LIVE!](https://med-next.vercel.app/) --- [Dynamic content Web Application (React + NextJS + MongoDB)](https://github.com/NikolaosKantartzopoulos/med-next)
   - Dark theme persisting on refresh using Local Storage
