@@ -19,6 +19,7 @@ HTML, CSS ( [Sass](https://sass-lang.com/), [Tailwind](https://tailwindcss.com/)
   - Dark theme persisting on refresh using Local Storage
   - [i18n Internationalization](https://nextjs.org/docs/advanced-features/i18n-routing)
   - Favicon
+- [The MERN template I created and use for my projects!](https://github.com/NikolaosKantartzopoulos/mern-template)
 
 
 ---
