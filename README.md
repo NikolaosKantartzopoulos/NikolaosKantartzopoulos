@@ -1,9 +1,9 @@
 # Hi, I'm Nikos 👋
 
-Software Engineer focused on backend and full-stack development.
+Java Software Engineer focused on backend development with Spring Boot, PostgreSQL and microservice architectures.
 
-I work primarily with Java, Spring Boot, TypeScript/JavaScript and React,
-with a strong interest in software architecture, APIs, databases,
-containerized applications and developer tooling.
+I work primarily with Java/Spring Boot services, REST APIs, SQL/PostgreSQL, JPA/Hibernate and containerized environments, with a particular interest in application performance, databases and understanding system behaviour below the framework level.
 
-🌐 [Portfolio](https://agenda-portfolio.nklan.gr/)
+My background also includes frontend development with TypeScript, React and Next.js.
+
+🌐 [Engineering Portfolio — Agenda](https://agenda-portfolio.nklan.gr/)
